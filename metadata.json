@@ -1,0 +1,5 @@
+{
+  "name": "CCTV Network Impact Monitoring & Simulation System",
+  "description": "An advanced full-stack simulation tool with Gemini AI insights to demonstrate and analyze the impact of CCTV traffic on network bandwidth, latency, and packet loss.",
+  "requestFramePermissions": []
+}
