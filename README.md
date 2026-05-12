@@ -29,6 +29,7 @@ Create a `.env` file in the root directory (optional, as the system has a built-
 ```env
 DATABASE_URL=postgresql://user:password@localhost:5432/cctv_network
 JWT_SECRET=your_secret_key
+
 ```
 *Note: If no database is detected, the system will automatically use a robust in-memory store for demonstration.*
 
