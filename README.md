@@ -29,7 +29,6 @@ Create a `.env` file in the root directory (optional, as the system has a built-
 ```env
 DATABASE_URL=postgresql://user:password@localhost:5432/cctv_network
 JWT_SECRET=your_secret_key
-GEMINI_API_KEY=your_gemini_api_key
 ```
 *Note: If no database is detected, the system will automatically use a robust in-memory store for demonstration.*
 
